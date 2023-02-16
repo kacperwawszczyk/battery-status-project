@@ -1,0 +1,9 @@
+C:\Users\kacpe\source\repos\BatteryStatusProject\Usluga\bin\Debug\Usluga.exe.config
+C:\Users\kacpe\source\repos\BatteryStatusProject\Usluga\bin\Debug\Usluga.exe
+C:\Users\kacpe\source\repos\BatteryStatusProject\Usluga\bin\Debug\Usluga.pdb
+C:\Users\kacpe\source\repos\BatteryStatusProject\Usluga\obj\Debug\Usluga.ProjectInstaller.resources
+C:\Users\kacpe\source\repos\BatteryStatusProject\Usluga\obj\Debug\Usluga.Service1.resources
+C:\Users\kacpe\source\repos\BatteryStatusProject\Usluga\obj\Debug\Usluga.csproj.GenerateResource.cache
+C:\Users\kacpe\source\repos\BatteryStatusProject\Usluga\obj\Debug\Usluga.exe
+C:\Users\kacpe\source\repos\BatteryStatusProject\Usluga\obj\Debug\Usluga.pdb
+C:\Users\kacpe\source\repos\BatteryStatusProject\Usluga\obj\Debug\Usluga.csprojAssemblyReference.cache

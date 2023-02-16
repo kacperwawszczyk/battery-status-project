@@ -1,0 +1,5 @@
+C:\Users\kacpe\source\repos\BatteryStatusProject\Biblioteka\bin\Debug\Biblioteka.dll
+C:\Users\kacpe\source\repos\BatteryStatusProject\Biblioteka\bin\Debug\Biblioteka.pdb
+C:\Users\kacpe\source\repos\BatteryStatusProject\Biblioteka\obj\Debug\Biblioteka.dll
+C:\Users\kacpe\source\repos\BatteryStatusProject\Biblioteka\obj\Debug\Biblioteka.pdb
+C:\Users\kacpe\source\repos\BatteryStatusProject\Biblioteka\obj\Debug\Biblioteka.csprojAssemblyReference.cache

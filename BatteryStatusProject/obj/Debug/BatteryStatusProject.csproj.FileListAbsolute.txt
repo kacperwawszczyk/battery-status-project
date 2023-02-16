@@ -1,0 +1,17 @@
+C:\Users\kacpe\source\repos\BatteryStatusProject\BatteryStatusProject\bin\Debug\BatteryStatusProject.exe.config
+C:\Users\kacpe\source\repos\BatteryStatusProject\BatteryStatusProject\bin\Debug\BatteryStatusProject.exe
+C:\Users\kacpe\source\repos\BatteryStatusProject\BatteryStatusProject\bin\Debug\BatteryStatusProject.pdb
+C:\Users\kacpe\source\repos\BatteryStatusProject\BatteryStatusProject\obj\Debug\BatteryStatusProject.csprojAssemblyReference.cache
+C:\Users\kacpe\source\repos\BatteryStatusProject\BatteryStatusProject\obj\Debug\MainWindow.g.cs
+C:\Users\kacpe\source\repos\BatteryStatusProject\BatteryStatusProject\obj\Debug\App.g.cs
+C:\Users\kacpe\source\repos\BatteryStatusProject\BatteryStatusProject\obj\Debug\BatteryStatusProject_MarkupCompile.cache
+C:\Users\kacpe\source\repos\BatteryStatusProject\BatteryStatusProject\obj\Debug\BatteryStatusProject_MarkupCompile.lref
+C:\Users\kacpe\source\repos\BatteryStatusProject\BatteryStatusProject\obj\Debug\MainWindow.baml
+C:\Users\kacpe\source\repos\BatteryStatusProject\BatteryStatusProject\obj\Debug\BatteryStatusProject.g.resources
+C:\Users\kacpe\source\repos\BatteryStatusProject\BatteryStatusProject\obj\Debug\BatteryStatusProject.Properties.Resources.resources
+C:\Users\kacpe\source\repos\BatteryStatusProject\BatteryStatusProject\obj\Debug\BatteryStatusProject.csproj.GenerateResource.cache
+C:\Users\kacpe\source\repos\BatteryStatusProject\BatteryStatusProject\obj\Debug\BatteryStatusProject.exe
+C:\Users\kacpe\source\repos\BatteryStatusProject\BatteryStatusProject\obj\Debug\BatteryStatusProject.pdb
+C:\Users\kacpe\source\repos\BatteryStatusProject\BatteryStatusProject\bin\Debug\Biblioteka.dll
+C:\Users\kacpe\source\repos\BatteryStatusProject\BatteryStatusProject\bin\Debug\Biblioteka.pdb
+C:\Users\kacpe\source\repos\BatteryStatusProject\BatteryStatusProject\obj\Debug\BatteryStatusProject.csproj.CopyComplete
